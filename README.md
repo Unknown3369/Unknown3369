@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sagan Krishna Tamrakar</h1>
 <h3 align="center">A passionate QA</h3>
 
-- 🌱 I’m currently learning **Selenium**
+- 🌱 I’m currently learning **Automation using Selenium**
 
 - 📫 How to reach me **tamrakarsagan@gmail.com**
 
